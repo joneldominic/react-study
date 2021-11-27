@@ -26,8 +26,8 @@ const App = () => {
     },
   ];
 
-  const addExpenseHandler = (expense) => {
-    console.log(expense);
+  const addExpenseHandler = (newExpense) => {
+    console.log(newExpense);
   };
 
   return (
